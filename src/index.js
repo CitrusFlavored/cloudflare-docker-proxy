@@ -16,7 +16,7 @@ const routes = {
   //"cloudsmith.clearwind.cc": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-clearwind.cc": dockerHub,
+  "docker-staging.clearwind.cc": dockerHub,
 };
 
 function routeByHosts(host) {
